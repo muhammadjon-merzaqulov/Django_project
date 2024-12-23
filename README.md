@@ -44,9 +44,10 @@ python manage.py runserver
 You can access the project in your browser at `http://127.0.0.1:8000/`.
   
 ## Technologies Used
-- Python 3.x
-- Django 5.x
-- PostgreSQL or SQLite (depending on your database choice)
+- Python 3.12
+- Django 5.0.6
+- pillow==10.3.0
+- sqlparse==0.5.0
 
 ## Support
 If you have any questions or need help with the project, feel free to contact me at:
