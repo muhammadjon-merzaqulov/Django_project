@@ -56,13 +56,3 @@ If you have any questions or need help with the project, feel free to contact me
 ## License
 This project is licensed under the MIT License - see the <a href="https://github.com/muhammadjon-merzaqulov/Django_project?tab=MIT-1-ov-file#">LICENCE</a>  file for details.
 ```
-
-### README Breakdown:
-1. **Project Description** – A brief overview of what the project is about.
-2. **Usage** – Steps to install, set up, and run the project.
-3. **Features** – Key functionalities and features the project provides.
-4. **Technologies Used** – A list of technologies and tools used in the project.
-5. **Support** – Contact information in case users need help or have questions.
-6. **License** – Information about the license under which the project is distributed (you can replace it with a different license if applicable).
-
-This format will give your project a professional and clean presentation on GitHub.
