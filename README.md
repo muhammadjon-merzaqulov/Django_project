@@ -54,7 +54,7 @@ If you have any questions or need help with the project, feel free to contact me
 - Email: merzaqulov1@gmail.com
 
 ## License
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
+This project is licensed under the MIT License - see the <a https://github.com/muhammadjon-merzaqulov/Django_project?tab=MIT-1-ov-file#>LICENSE</a> file for details.
 ```
 
 ### README Breakdown:
