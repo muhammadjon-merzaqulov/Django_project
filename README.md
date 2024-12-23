@@ -50,7 +50,7 @@ You can access the project in your browser at `http://127.0.0.1:8000/`.
 
 ## Support
 If you have any questions or need help with the project, feel free to contact me at:
-- Email: your.email@example.com
+- Email: merzaqulov1@gmail.com
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
