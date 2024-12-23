@@ -42,11 +42,6 @@ python manage.py runserver
 ```
 
 You can access the project in your browser at `http://127.0.0.1:8000/`.
-
-## Features
-- User registration and authentication.
-- User profile management.
-- Interaction with other users.
   
 ## Technologies Used
 - Python 3.x
