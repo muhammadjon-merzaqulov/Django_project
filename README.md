@@ -18,7 +18,7 @@ git clone https://github.com/muhammadjon-merzaqulov/Django_project.git
 
 ### 2. Set up a virtual environment
 Create a virtual environment and activate it to manage dependencies:
-```bash
+```
 python3 -m venv .venv
 source .venv/bin/activate   # For macOS/Linux
 ```
