@@ -1,7 +1,7 @@
 # Django_project
 Here’s a professional README template for your GitHub project. You can customize it based on your project details.
 
-```markdown
+
 # Django Project
 
 ## Project Description
@@ -12,7 +12,7 @@ To install and run the project locally, follow these steps:
 
 ### 1. Clone the repository
 To get a local copy of the repository, run the following command:
-```bash
+```
 git clone https://github.com/muhammadjon-merzaqulov/Django_project.git
 ```
 
